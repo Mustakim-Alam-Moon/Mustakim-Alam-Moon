@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Microsoft Technologies or Any Tech Related Stuff.
 
-### Languages & Tools: <br />
+### Languages & Tools: 
+<br />
 <a href="#">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </a>
@@ -53,7 +54,8 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </a>
 
-### Connect With Me: <br />
+### Connect With Me: 
+<br />
 <a href="http://www.linkedin.com/in/mustakimalammoon">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -63,3 +65,15 @@
 <a href="https://www.facebook.com/MustakimAlamMoon">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
+
+🔥 Stats:
+<br />
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustakim-Alam-Moon&theme=github_dark&show_icons=true">
+</a>
+
+<br />
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustakim-Alam-Moon&theme=algolia&layout=compact&show_icons=true">
+</a>
+<br />
