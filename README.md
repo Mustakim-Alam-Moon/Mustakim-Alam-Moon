@@ -6,7 +6,6 @@
 - 💬 Ask me about Microsoft Technologies or Any Tech Related Stuff.
 
 ### Languages & Tools: 
-<br />
 <a href="#">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </a>
@@ -55,7 +54,6 @@
 </a>
 
 ### Connect With Me: 
-<br />
 <a href="http://www.linkedin.com/in/mustakimalammoon">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -67,10 +65,12 @@
 </a>
 
 ### 🔥Stats:
-<br/>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Mustakim-Alam-Moon&theme=algolia&show_icons=true">
 </a>
+
+<br />
+<br />
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustakim-Alam-Moon&theme=algolia&layout=compact&show_icons=true">
 </a>
