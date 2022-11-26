@@ -66,13 +66,11 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
-🔥 Stats:
-<br />
+### 🔥Stats:
+<br/>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustakim-Alam-Moon&theme=github_dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustakim-Alam-Moon&theme=algolia&show_icons=true">
 </a>
-
-<br />
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustakim-Alam-Moon&theme=algolia&layout=compact&show_icons=true">
 </a>
