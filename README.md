@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/Him...
 
 Connect With Me:
-<img src"https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/<cold-face>.gif height="30" width="30" align="center" />
+<img src"https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/cold-face.gif height="30" width="30" align="center" />
