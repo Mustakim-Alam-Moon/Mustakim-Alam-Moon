@@ -1,4 +1,4 @@
-# Hello World! This is Moon... 👋
+## Hello World! This is Moon... 👋
 
 - 🔭 I’m currently working on ASP.NET Core MVC & Microsoft Azure...
 - 🌱 I’m currently learning DSA...
@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/Him...
 
 Connect With Me:
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
