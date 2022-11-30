@@ -6,7 +6,7 @@
 - 💬 Ask me about Microsoft Technologies or Any Tech Related Stuff.
 
 <a href="#">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Mustakim-Alam-Moon.visitor-badge&left_text=Profile_Views">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=MustakimAlamMoon.visitor-badge&left_text=Profile_Views">
 </a>
 
 ### Languages & Tools: 
@@ -70,17 +70,17 @@
 
 ### 🔥 Stats:
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustakim-Alam-Moon&theme=algolia&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=MustakimAlamMoon&theme=algolia&show_icons=true">
 </a>
 
 <br />
 <br />
 <a href="#">
-  <img src="https://streak-stats.demolab.com/?user=Mustakim-Alam-Moon&theme=algolia">
+  <img src="https://streak-stats.demolab.com/?user=MustakimAlamMoon&theme=algolia">
 </a>
 
 <br />
 <br />
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustakim-Alam-Moon&theme=algolia&layout=compact&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustakimAlamMoon&theme=algolia&layout=compact&show_icons=true">
 </a>
