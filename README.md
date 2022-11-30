@@ -6,7 +6,7 @@
 - 💬 Ask me about Microsoft Technologies or Any Tech Related Stuff.
 
 <a href="#">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Mustakim-Alam-Moon.visitor-badge&left_text=ProfileViews">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Mustakim-Alam-Moon.visitor-badge&left_text=Profile_Views">
 </a>
 
 ### Languages & Tools: 
