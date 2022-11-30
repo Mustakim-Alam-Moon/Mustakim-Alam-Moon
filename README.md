@@ -1,7 +1,7 @@
 ## Hi! This is Moon... 👋
 
 - 🔭 I’m currently working on .NET Core & Microsoft Azure.
-- 🌱 I’m currently learning DSA & preparing for MAANG.
+- 🌱 I’m currently learning DSA & preparing for FAANG.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Microsoft Technologies or Any Tech Related Stuff.
 
