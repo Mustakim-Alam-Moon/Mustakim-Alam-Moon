@@ -82,5 +82,5 @@
 <br />
 <br />
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustakimAlamMoon&theme=algolia&layout=compact&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustakimAlamMoon&theme=algolia&layout=compact&show_icons=true&exclude_repo=MustakimAlamMoon_Portfolio">
 </a>
